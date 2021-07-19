@@ -11,11 +11,9 @@ assignees: Whitescan
 
 **Wann hast du den Fehler gefunden? (Datum, Uhrzeit - möglichst genau!)**
 
-**Spielst du die Java oder die Bedrock Version von Minecraft?**
+**Welche Minecraft Version nutzt du? (z.B. Java 1.17.1, Bedrock oder LabyMod 1.16)**
 
-**Nenne deine Minecraft Version. (z.B. 1.17.1)**
-
-**Ist dein Minecraft modifiziert? Wenn ja nenne uns die Modifikationen.**
+**Nenne uns bitte deinen Minecraft Benutzernamen**
 
 **Beschreibe den Fehler möglichst genau.**
 
