@@ -2,7 +2,7 @@
 name: Fehlermeldung
 about: Erstelle einen Fehlerreport, um uns dabei zu helfen unsere Systeme zu verbessern
 title: "[SERVER] Titel..."
-labels: bug
+labels: ''
 assignees: Whitescan
 
 ---
