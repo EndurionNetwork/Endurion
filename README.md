@@ -1,2 +1,5 @@
 # Endurion
-Endurion's public Help-Desk for Feature and Issue Management
+This is Endurion Network's GitHub Organization.
+
+# Learn more
+https://linktr.ee/Endurion
